@@ -1,0 +1,29 @@
+{
+  "name": "template_html_css_js_2",
+  "version": "0.0.1",
+  "description": "Basic HTML CSS JS Template with ESLint ID 2",
+  "main": "/Assets/Scripts/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martink-rsa/Template_HTML_CSS_JS_2.git"
+  },
+  "author": "martink-rsa",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/martink-rsa/Template_HTML_CSS_JS_2/issues"
+  },
+  "homepage": "https://github.com/martink-rsa/Template_HTML_CSS_JS_2#readme",
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-prettier": "^6.7.0",
+    "eslint-plugin-import": "^2.19.1",
+    "eslint-plugin-prettier": "^3.1.1"
+  },
+  "dependencies": {
+    "prettier": "^1.19.1"
+  }
+}
