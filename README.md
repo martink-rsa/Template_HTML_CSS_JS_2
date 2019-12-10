@@ -37,4 +37,4 @@ project
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------- |
 | ID 0: | [Template_HCJ_0 (No_Folders)](https://github.com/martink-rsa/Template_HTML_CSS_JS_0 'Template ID: 0, no folder')                       | Basic HTML/CSS/JS in root folder              |
 | ID 1: | [Template_HCJ_1 (Nested files)](https://github.com/martink-rsa/Template_HTML_CSS_JS_1 'Template ID: 1, nested files')                  | Basic HTML/CSS/JS in nested folders           |
-| ID 2: | [Template_HCJ_2 (Nested files w/ ESLint)](https://github.com/martink-rsa/Template_HTML_CSS_JS_1 'Template ID: 2, ESLint and Prettier') | Basic HTML/CSS/JS in nested folders w/ ESLint |  |
+| ID 2: | [Template_HCJ_2 (Nested files w/ ESLint)](https://github.com/martink-rsa/Template_HTML_CSS_JS_2 'Template ID: 2, ESLint and Prettier') | Basic HTML/CSS/JS in nested folders w/ ESLint |  |
