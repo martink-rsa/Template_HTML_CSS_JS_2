@@ -1,4 +1,4 @@
-# HTML / CSS / Javascript Template (ID: 1)
+# HTML / CSS / Javascript Template (ID: 2)
 
 A basic baseline template for quick HTML / CSS / JavaScript development.
 
